@@ -1,0 +1,32 @@
+<persons>
+	<person id='1'>
+		<name>John Doe</name>
+		<address>
+			<houseNo>30</houseNo>
+			<roadNo>3</roadNo>
+			<location>Banani</location>
+			<district>Dhaka</district>
+		</address>
+	</person>
+	
+	
+	<person id='2'>
+		<name>Mark Jukerberg</name>
+		<address>
+			<flatNo>A/1</flatNo>
+			<houseNo>20</houseNo>
+			<roadNo>18</roadNo>
+			<location>Mirpur</location>
+			<district>Dhaka</district>
+		</address>
+	</person>
+	
+	
+	<person id='3'>
+		<name>Ala Voski</name>
+		<address>
+			<houseNo>38</houseNo>
+			<roadNo>3</roadNo>
+			<location>Motijheel</location>
+		</person>
+	</persons>
